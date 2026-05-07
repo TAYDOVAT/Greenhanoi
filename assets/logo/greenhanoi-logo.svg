@@ -1,0 +1,9 @@
+<svg width="560" height="150" viewBox="0 0 560 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="7" y="11" width="546" height="128" rx="64" fill="#FFFDF8"/>
+  <rect x="7" y="11" width="546" height="128" rx="64" stroke="#DDE8DA" stroke-width="10"/>
+  <circle cx="82" cy="75" r="35" fill="#DDF6DF"/>
+  <path d="M64 83C64 58 90 45 106 49C105 75 84 98 64 83Z" fill="#1F9C4B"/>
+  <path d="M65 82C79 76 90 67 102 54" stroke="#0B3B28" stroke-width="4.8" stroke-linecap="round"/>
+  <path d="M71 92C71 92 82 85 96 86" stroke="#9FCA4D" stroke-width="4.4" stroke-linecap="round"/>
+  <text x="132" y="87" font-family="Be Vietnam Pro, Arial, sans-serif" font-size="44" font-weight="800" fill="#0B3B28">Green<tspan fill="#1F7A4C">Hanoi</tspan></text>
+</svg>
